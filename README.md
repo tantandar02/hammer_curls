@@ -1,1 +1,1 @@
-# hammer_curls
+This project involved creating a rep counter for hammer curls dumbbell workout using Python and Mediapipe to track repetitions for both arms. Based on a tutorial by Nicholas Renotte, I modified the code to detect both arms and added voice feedback with pyttsx3 to announce each completed rep on time.
